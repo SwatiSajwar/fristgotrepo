@@ -1,2 +1,0 @@
-# fristgotrepo
-Demo repo
